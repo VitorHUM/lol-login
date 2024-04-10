@@ -1,4 +1,4 @@
-# [`LoL Login`](https://vitorhumoreira.github.io/lol-login/)
+# [`LoL Login`](https://vitorhum.github.io/lol-login/)
 
 ## 💡 Introduction
 
